@@ -16,14 +16,14 @@ A starter project showcasing **data analysis and machine learning** concepts in 
   - Train-test split  
   - Linear Regression and accuracy metrics  
   - Logistic Regression, accuracy, and feature importance  
-- **Basic NLP**: Classify text data into news categories  
+- **Basic NLP**: Classify text data into type of news categories  
 
 ## Libraries Used
 
 - `pandas`, `numpy` – data manipulation  
 - `matplotlib`, `seaborn` – visualization  
 - `scikit-learn` – ML models and preprocessing  
-- `nltk` / `spacy` – basic NLP  
+- `nltk` / `tensorflow` – basic NLP  
 
 ## Getting Started
 
