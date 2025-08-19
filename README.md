@@ -29,4 +29,4 @@ A starter project showcasing **data analysis and machine learning** concepts in 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/data-analysis-and-ml.git
+   git clone https://github.com/nk-datahub/Data-Analysis-and-ML.git
